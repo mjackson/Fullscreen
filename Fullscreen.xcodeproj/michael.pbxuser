@@ -96,14 +96,14 @@
 	};
 	4C05023A11E3D287007C72A9 /* FullscreenWindow.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {958, 864}}";
-			sepNavSelRange = "{164, 0}";
-			sepNavVisRange = "{0, 165}";
+			sepNavIntBoundsRect = "{{0, 0}, {958, 860}}";
+			sepNavSelRange = "{80, 0}";
+			sepNavVisRange = "{0, 80}";
 		};
 	};
 	4C05023D11E3D5AA007C72A9 /* FullscreenAppDelegate.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {958, 1170}}";
+			sepNavIntBoundsRect = "{{0, 0}, {958, 1053}}";
 			sepNavSelRange = "{2678, 0}";
 			sepNavVisRange = "{0, 2298}";
 		};
@@ -113,9 +113,9 @@
 		fRef = 4C05023A11E3D287007C72A9 /* FullscreenWindow.rb */;
 		name = "FullscreenWindow.rb: 8";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 80;
 		rType = 0;
-		vrLen = 165;
+		vrLen = 80;
 		vrLoc = 0;
 	};
 	4C05027211E3E8D2007C72A9 /* PBXTextBookmark */ = {

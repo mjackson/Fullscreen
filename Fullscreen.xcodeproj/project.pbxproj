@@ -46,7 +46,7 @@
 		2BFA9DA710CDF852007972A1 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2BFA9DA510CDF852007972A1 /* MainMenu.xib */; };
 		4C05023B11E3D287007C72A9 /* FullscreenWindow.rb in Resources */ = {isa = PBXBuildFile; fileRef = 4C05023A11E3D287007C72A9 /* FullscreenWindow.rb */; };
 		4C05023E11E3D5AA007C72A9 /* FullscreenAppDelegate.rb in Resources */ = {isa = PBXBuildFile; fileRef = 4C05023D11E3D5AA007C72A9 /* FullscreenAppDelegate.rb */; };
-		4DE339F70D74FCDD00ADB6EE /* rb_main.rb in Resources */ = {isa = PBXBuildFile; fileRef = 4DE339F60D74FCDD00ADB6EE /* rb_main.rb */; };
+		4C1C7D8E11E3EA3800995D3C /* main.rb in Resources */ = {isa = PBXBuildFile; fileRef = 4C1C7D8D11E3EA3800995D3C /* main.rb */; };
 		4DE3BE140D8651D900ECA448 /* MacRuby.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4DE3BE130D8651D900ECA448 /* MacRuby.framework */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
@@ -75,7 +75,7 @@
 		2BFA9DA610CDF852007972A1 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		4C05023A11E3D287007C72A9 /* FullscreenWindow.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = FullscreenWindow.rb; sourceTree = "<group>"; };
 		4C05023D11E3D5AA007C72A9 /* FullscreenAppDelegate.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = FullscreenAppDelegate.rb; sourceTree = "<group>"; };
-		4DE339F60D74FCDD00ADB6EE /* rb_main.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = rb_main.rb; sourceTree = "<group>"; };
+		4C1C7D8D11E3EA3800995D3C /* main.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = main.rb; sourceTree = "<group>"; };
 		4DE3BE130D8651D900ECA448 /* MacRuby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MacRuby.framework; path = /Library/Frameworks/MacRuby.framework; sourceTree = "<absolute>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* Fullscreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fullscreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -145,7 +145,7 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
-				4DE339F60D74FCDD00ADB6EE /* rb_main.rb */,
+				4C1C7D8D11E3EA3800995D3C /* main.rb */,
 				29B97316FDCFA39411CA2CEA /* main.m */,
 			);
 			name = "Other Sources";
@@ -218,10 +218,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
-				4DE339F70D74FCDD00ADB6EE /* rb_main.rb in Resources */,
 				2BFA9DA710CDF852007972A1 /* MainMenu.xib in Resources */,
 				4C05023B11E3D287007C72A9 /* FullscreenWindow.rb in Resources */,
 				4C05023E11E3D5AA007C72A9 /* FullscreenAppDelegate.rb in Resources */,
+				4C1C7D8E11E3EA3800995D3C /* main.rb in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
