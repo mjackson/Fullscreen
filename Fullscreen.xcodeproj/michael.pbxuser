@@ -1,0 +1,153 @@
+// !$*UTF8*$!
+{
+	172754BD107597F200D0347B /* Unit Tests */ = {
+		activeExec = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4C05023211E3D265007C72A9 /* Fullscreen */;
+		activeTarget = 8D1107260486CEB800E47090 /* Fullscreen */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Fullscreen */,
+		);
+		codeSenseManager = 4C05023911E3D284007C72A9 /* Code sense */;
+		executables = (
+			4C05023211E3D265007C72A9 /* Fullscreen */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					780,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300148998;
+			PBXWorkspaceStateSaveDate = 300148998;
+		};
+		perUserProjectItems = {
+			4C05027111E3E8D2007C72A9 = 4C05027111E3E8D2007C72A9 /* PBXTextBookmark */;
+			4C05027211E3E8D2007C72A9 = 4C05027211E3E8D2007C72A9 /* PBXTextBookmark */;
+			4C05027311E3E8D2007C72A9 = 4C05027311E3E8D2007C72A9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4C05023811E3D284007C72A9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4C05023211E3D265007C72A9 /* Fullscreen */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Fullscreen;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+	};
+	4C05023811E3D284007C72A9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4C05023911E3D284007C72A9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4C05023A11E3D287007C72A9 /* FullscreenWindow.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {958, 864}}";
+			sepNavSelRange = "{164, 0}";
+			sepNavVisRange = "{0, 165}";
+		};
+	};
+	4C05023D11E3D5AA007C72A9 /* FullscreenAppDelegate.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {958, 1170}}";
+			sepNavSelRange = "{2678, 0}";
+			sepNavVisRange = "{0, 2298}";
+		};
+	};
+	4C05027111E3E8D2007C72A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C05023A11E3D287007C72A9 /* FullscreenWindow.rb */;
+		name = "FullscreenWindow.rb: 8";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 165;
+		vrLoc = 0;
+	};
+	4C05027211E3E8D2007C72A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C05023D11E3D5AA007C72A9 /* FullscreenAppDelegate.rb */;
+		name = "FullscreenAppDelegate.rb: 7";
+		rLen = 0;
+		rLoc = 272;
+		rType = 0;
+		vrLen = 133;
+		vrLoc = 0;
+	};
+	4C05027311E3E8D2007C72A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4C05023D11E3D5AA007C72A9 /* FullscreenAppDelegate.rb */;
+		name = "FullscreenAppDelegate.rb: 81";
+		rLen = 0;
+		rLoc = 2678;
+		rType = 0;
+		vrLen = 2298;
+		vrLoc = 0;
+	};
+	4D1A51A110A4FF5D0046A98A /* Compile */ = {
+		activeExec = 0;
+	};
+	4D1A51A510A4FF640046A98A /* Embed */ = {
+		activeExec = 0;
+	};
+	8D1107260486CEB800E47090 /* Fullscreen */ = {
+		activeExec = 0;
+		executables = (
+			4C05023211E3D265007C72A9 /* Fullscreen */,
+		);
+	};
+}

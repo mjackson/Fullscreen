@@ -1,0 +1,5 @@
+A small app to demonstrate how to create a fullscreen app in Cocoa with MacRuby.
+Based on an Objective-C version by Matt Gallagher
+(http://cocoawithlove.com/2009/08/animating-window-to-fullscreen-on-mac.html).
+
+Copyright 2010 Michael Jackson (http://mjijackson.com/).
